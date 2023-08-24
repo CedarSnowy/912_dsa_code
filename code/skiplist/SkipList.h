@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include "../list/list.h" //引入列表
+#include "List/List.h" //引入列表
 #include "Entry/Entry.h" //引入词条
 #include "Quadlist.h" //引入Quadlist
 #include "Dictionary/Dictionary.h" //引入词典

@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-/*DSA*/#include "../_share/util.h"
+/*DSA*/#include "_share/util.h"
 /*DSA*/#include "UniPrint/print_int_array.h"
 
 void reverse ( int* A, int lo, int hi ) { //Êý×éµ¹ÖÃ£¨¶àµÝ¹é»ùµÝ¹é°æ£©

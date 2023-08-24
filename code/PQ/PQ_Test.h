@@ -11,7 +11,7 @@
 #include<iostream>
 using namespace std;
 
-#include "../_share/util.h"
+#include "_share/util.h"
 #include "UniPrint/print.h"
 
 #if defined(DSA_PQ_LEFTHEAP)

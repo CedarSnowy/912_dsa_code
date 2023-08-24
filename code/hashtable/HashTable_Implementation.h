@@ -14,8 +14,8 @@
  * 在export尚未被编译器支持前，如此可将定义与实现分离，以便课程讲解
  ******************************************************************************************/
 #define PRIME_TABLE "../../_input/prime-1048576-bitmap.txt"
-#include "../_share/release.h"
-#include "../_share/util.h"
+#include "_share/release.h"
+#include "_share/util.h"
 
 #include "Hashtable_constructor.h"
 #include "Hashtable_destructor.h"

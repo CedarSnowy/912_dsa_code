@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-/*DSA*/#include "../_share/util.h"
+/*DSA*/#include "_share/util.h"
 /*DSA*/#include "random/shuffle.h"
 /*DSA*/#include "UniPrint/print_int_array.h"
 

@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-/*DSA*/#include "../_share/util.h"
+/*DSA*/#include "_share/util.h"
 /*DSA*/#include "UniPrint/print_int_array.h"
 
 void reverse( int* A, int lo, int hi ) { //数组倒置（直接改造而得的迭代版）

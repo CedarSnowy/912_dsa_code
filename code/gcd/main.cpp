@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-#include "../_share/util.h"
+#include "_share/util.h"
 
 #define ABS(x) ( (0 < (x)) ? (x) : (-(x)) )
 

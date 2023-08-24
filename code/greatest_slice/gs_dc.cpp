@@ -1,5 +1,5 @@
 /*DSA*/#include <cstdlib>
-/*DSA*/#include "../_share/util.h"
+/*DSA*/#include "_share/util.h"
 
 extern int s_lo, s_hi;
 

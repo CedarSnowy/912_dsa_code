@@ -11,7 +11,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <cstring>
-#include "../_share/util.h"
+#include "_share/util.h"
 
 #define printString(s) { for (size_t m = strlen(s), k = 0; k < m; k++) printf("%4c", (s)[k]); }
 

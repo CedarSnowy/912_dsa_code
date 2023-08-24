@@ -8,7 +8,7 @@
 
 #pragma once
 
-#include "../list/list.h" //以List为基类派生出的
+#include "List/List.h" //以List为基类派生出的
 template <typename T> class Queue: public List<T> { //队列模板类
 public: //原有接口一概沿用
    void enqueue( T const& e ) { insertAsLast( e ); } //入队：尾部插入

@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-#include "../_share/util.h"
+#include "_share/util.h"
 int countOnes ( unsigned int n );
 int countOnes1 ( unsigned int n );
 int countOnes2 ( unsigned int n );

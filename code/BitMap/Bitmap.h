@@ -12,7 +12,7 @@
 #include <cstdlib>
 #include <cstdio>
 #include <memory.h>
-#include "../_share/release.h"
+#include "_share/release.h"
 using Rank = unsigned int;
 
 class Bitmap { //ŒªÕºBitmap¿‡

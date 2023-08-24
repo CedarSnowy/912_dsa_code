@@ -9,7 +9,7 @@
 #pragma once
 
 #include "PQ/PQ.h" //引入优先级队列ADT
-#include "../list/list.h" //引入列表
+#include "List/List.h" //引入列表
 template <typename T> class PQ_List : public PQ<T>, public List<T> { //基于列表实现的优先级队列
    /*DSA*/friend class UniPrint; //演示输出使用，否则不必设置友类
 public:

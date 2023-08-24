@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-/*DSA*/#include "../_share/util.h"
+/*DSA*/#include "_share/util.h"
 /*DSA*/#include "UniPrint/print_int_array.h"
 
 void bubblesort1B( int A[], int n ) { //起泡排序算法（版本1B，与版本1A完全等价）：0 <= n

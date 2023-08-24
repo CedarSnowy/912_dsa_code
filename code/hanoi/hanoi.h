@@ -11,7 +11,7 @@
 #include <cstdio>
 #include <cstdlib>
 
-#include "../_share/util.h"
+#include "_share/util.h"
 #include "stack/stack.h"
 
 using Disk = int;

@@ -7,7 +7,7 @@
  ******************************************************************************************/
 
 #include <cstdio>
-#include "../_share/rand.h"
+#include "_share/rand.h"
 #include "Bitmap/Bitmap.h"
 #include "Eratosthenes.h"
 #include "primeNLT.h"

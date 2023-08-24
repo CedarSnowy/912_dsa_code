@@ -10,7 +10,7 @@
 #include <cstring>
 #include <cstdlib>
 #include <ctime>
-#include "../_share/util.h"
+#include "_share/util.h"
 #include "UniPrint/print.h"
 #include "vector/vector.h"
 #include "majority.h"

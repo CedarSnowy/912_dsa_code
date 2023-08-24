@@ -18,7 +18,7 @@
  *    =  O(nlog(n))
  * 如下实现中，内循环的起点、外循环的终点都了优化
  ******************************************************************************************/
-/*DSA*/ #include "../_share/util.h"
+/*DSA*/ #include "_share/util.h"
 
 void Eratosthenes( Rank n, char* file ) {
    Bitmap B( n ); B.set( 0 ); B.set( 1 ); // 0和1都不是素数

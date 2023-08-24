@@ -9,7 +9,7 @@
 #pragma once
 
 #include <assert.h>
-#include "../_share/util.h"
+#include "_share/util.h"
 #include "UniPrint/print.h"
 
 using Rank = unsigned int; //÷»

@@ -6,7 +6,7 @@
  * Copyright (c) 2003-2023. All rights reserved.
  ******************************************************************************************/
 
-#include "../_share/util.h"
+#include "_share/util.h"
 #include "stack/stack.h" //使用栈
 #include "Cell.h" //迷宫格点类
 

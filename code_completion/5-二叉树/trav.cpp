@@ -1,8 +1,6 @@
 #include "head.h"
 using namespace std;
 
-
-
 template <typename T> void visitAlongLeftBranch(BinNode<T>* node,stack<BinNode<T>*>& support_stack)
 {
     while(node)

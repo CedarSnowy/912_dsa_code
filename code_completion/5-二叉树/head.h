@@ -3,7 +3,11 @@
 using namespace std;
 
 
+
 template <typename T> struct BinNode {
+    /*Todo:定义二叉树节点*/
+    // 成员变量：左孩子、右孩子、亲节点、数据域
+
     BinNode<T> *lchild, *rchild,* parent;
     T data;
 
